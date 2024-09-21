@@ -1,7 +1,7 @@
 # SparkSQL Home Sales Analysis 
 
 ## Overview
-This project analyzes home sales data using SparkSQL for data loading, caching and partitioning to derive key metrics,  optimize query performance and compare cell runtimes.
+This project analyzes home sales data using Spark & SparkSQL for loading, caching and partitioning data to derive key metrics,  optimize and compare process performance.
 
 ## Libraries/Language
 - Python 3.12
